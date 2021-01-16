@@ -1211,6 +1211,7 @@ section.lazy-placeholder:after {
 }
 .cid-siDbeux7Kl .mbr-text {
   color: #232323;
+  text-align: center;
 }
 .cid-siDbeux7Kl .card-wrapper {
   height: 100%;
@@ -1225,6 +1226,7 @@ section.lazy-placeholder:after {
 }
 .cid-siDbeux7Kl .card-title {
   color: #232323;
+  text-align: center;
 }
 .cid-rOVxEMeS5a {
   padding-top: 60px;
@@ -1310,6 +1312,9 @@ section.lazy-placeholder:after {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #31393b;
+}
+.cid-siDbtX5L41 H2 {
+  color: #f7ed4a;
 }
 .cid-rGx1DSdIdP {
   padding-top: 90px;
