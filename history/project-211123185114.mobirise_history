@@ -67,7 +67,9 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "publishType": "local",
+    "publishPath": "file:///C:/Users/pascu/Documents/Portfolio%20Site"
   },
   "pages": {
     "index.html": {
